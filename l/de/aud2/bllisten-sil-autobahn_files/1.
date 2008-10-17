@@ -1,0 +1,42 @@
+<html><head><style>
+body {margin:0px 0px 15px 0px;padding:0px;font-weight:normal;font-family:arial}
+.b10 {font-size:12px;background:#FFF;color:#000}
+.vm {margin:0px;padding:0px;background-color:#FFF;font-size:11px;color:#666}
+.vm h5 {color:#000;font-weight:bold;font-size:1.2em;margin:0px;padding:0px}
+.vm p {margin:0px;padding:0px 0px 5px 0px}
+.vm a.av {color:#538BBC;background:url(http://z.about.com/f/bt/vg.gif) 3px 2px no-repeat;margin:1px 0px 0px 0px;padding:0px 0px 0px 18px;display:block}
+a {color:#236EB5}
+a:visited {color:#236EB5}
+</style><script>
+function zow(f,u,n,s){var o=window.open(u,n,s)
+if(window.focus&&o){if(f&1)o.focus();if(f&2)window.focus()}
+return o}
+function zo(s,t){if(t)return s+"=yes,";return s+"=no,"}
+function zpu(o,u,w,h,n,x,y){var t=u,f=1,c=",",s="width=";zpT='';if(zpT!=''){u=zpT+'&zu='+zE(t);zpT=''}
+if(!n||!n.length){var t=new Date();n="About"+t.getMilliseconds()}
+if(u.indexOf(':')<0)u=zh+u
+if(!w)w=-80
+if(!h)h=-95
+if(w<0&&w>-101)w=parseInt(zSw*(-w/100))-10
+if(h<0&&h>-101)h=parseInt(zSh*(-h/100))-40
+s+=w+c+"height="+h+c
+if(x)s+="screenX="+x+c+"screenY="+y+c+"top="+x+c+"left="+y+c
+if(o&512)s+=zo("scrollbars",o&1)+zo("resizable",o&2)+zo("status",o&4)+zo("menubar",o&8)+zo("toolbar",o&16)+zo("location",o&32)+zo("directories",o&64)+zo("dependent",o&128)
+if(o>1024)s+=zo("fullscreen",o&1024)+zo("alwaysRaised",o&2048)
+if(o&256)f=2
+zow(f,u,n,s)}
+function ziVz(x,y){zpu('','http://clk.about.com/?zi='+y+'&zu='+escape(x),653,410,'vp',(screen.width-653)/2,(screen.height-410)/2)}
+ch="homework",gs="";
+</script></head>
+
+
+
+<body class="b10"><div class="vm"><h5>Most Popular Video</h5><p>
+</p><div style="float: right; position: relative; top: -16px;"><a href="javascript:void(ziVz('http://home.about.com/z/cg/vp.htm?ch=gadgets&ap=1&l=gadgets/v/4','18/1FQ/U8'))"><img src="1_data/vne5.jpg" border="0" height="94" width="105"><br><img src="1_data/vpb.gif" border="0" height="23" width="105"></a></div>
+<a class="av" href="javascript:void(ziVz('http://home.about.com/z/cg/vp.htm?ch=gadgets&ap=1&l=gadgets/v/4','18/1FQ/Tu'))">Online Music Stores</a>
+<a class="av" href="javascript:void(ziVz('http://home.about.com/z/cg/vp.htm?ch=gadgets&ap=1&l=gadgets/v/5','18/1FQ/Tv'))">Digital Cameras</a>
+<a class="av" href="javascript:void(ziVz('http://home.about.com/z/cg/vp.htm?ch=gadgets&ap=1&l=gadgets/v/9','18/1FQ/Tw'))">Fitness Gadgets</a>
+<a class="av" href="javascript:void(ziVz('http://home.about.com/z/cg/vp.htm?ch=gadgets&ap=1&l=gadgets/v/7','18/1FQ/Tx'))">Choosing a DVR</a>
+<a class="av" href="javascript:void(ziVz('http://home.about.com/z/cg/vp.htm?ch=gadgets&ap=1&l=gadgets/v/6','18/1FQ/Ty'))">Portable Gaming</a>
+<br><a href="http://clk.about.com/?zi=18/1FQ/U9&amp;zu=http://video.about.com" target="_top">See other videos at About.com</a>
+<p></p></div></body></html>

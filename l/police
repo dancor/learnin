@@ -1,0 +1,45 @@
+187   Homicide
+207   Kidnapping
+207A  Kidnapping attempt
+211   Robbery
+211A  Robbery alarm
+211S  Robbery alarm, silent
+217   Assault with intent to murder
+240   Assault
+242   Battery
+245   Assault with a deadly weapon
+246   Shooting at inhabited dwelling
+261   Rape
+261A  Attempted rape
+273A  Child neglect
+273D  Domestic violence - Felony
+288   Lewd conduct
+311   Indecent exposure
+314   Indecent exposure
+374B  Illegal dumping
+390   Drunk
+390D  Drunk, unconscious
+415   Disturbance
+417   Person with a gun
+417K  Person with a knife
+419   Dead human body
+459   Burglary
+459A  Burglar alarm
+459S  Burglar alarm, silent
+470   Forgery
+480   Hit and run - Felony (great bodily injury or death)
+481   Hit and run - Misdemeanor
+484   Theft (definition)
+487   Grand theft (value >= 400$, or certain livestock)
+488   Petty theft (value < 400$)
+502   Drunk Driving
+503   Auto theft
+504   Tampering with a vehicle
+505A  Reckless driving
+507   Public nuisance
+510   Speeding or racing vehicles
+586   Illegal parking
+594   Malicious mischief
+604   Throwing missiles
+647   Lewd conduct (various subsections)
+653M  Threatening phone calls

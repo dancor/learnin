@@ -1,0 +1,4 @@
+- branching undo
+  - :earlier and :later
+  - g+ and g-
+  - :undolist

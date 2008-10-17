@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><title>Related Articles</title><style>body {font-weight:normal;font-size:11px;font-family:arial;color:#666;background:#FFF none;padding-bottom:10px;margin:0px 0px 15px 0px;}
+.obC {margin:0px 0px 0px 0px;padding:0px;background:#FFF;font-size:11px;color:#666;}
+.obC h5 {color:#000;font-weight:bold;font-size:1.2em;margin:0px;padding:0}
+.obC p {margin:0px;padding:0px 0px 5px 0px;}
+.obC a,.obC a:visited{display:block;color:#236EB5;background:url(http://z.about.com/f/bt/pa.gif) no-repeat;background-position:0px 5px;margin:0px 0px 0px 3px;padding:2px 2px 0px 12px;}</style>
+<script>q='>';sc='script';sce='<\/'+sc+q;scl=' type="text/javascript" language="JavaScript'
+scs='<'+sc+scl+'" src="';gs='german';url=document.referrer;i=url.indexOf('?');if(i>-1)url=url.substring(0,i)
+function w(p){document.writeln(p)}
+function zidt(d,l){return(d.length>l)?d.substr(0,l)+"...":d}
+if (url!=""){w(scs+'http://z.about.com/ri?url='+url+'">'+sce);if(url.indexOf("/cs/")>=0||url.indexOf("/od/")>=0){ucv='1AR'}else{ucv='yX'}}
+if(gs!="")w(scs+'http://z.about.com/6/o/m/'+gs+'_p_js.txt">'+sce);
+</script><script type="text/javascript" language="JavaScript" src="c_data/ri"></script><script type="text/javascript" language="JavaScript" src="c_data/german_p_js"></script></head>
+
+<body><script>function ziRl(d,u){w('<a href="http://clk.about.com/?zi=18/'+ucv+'&sdn='+gs+'&zu='+u+'" target=_top>'+zidt(d,55)+'</a>')}
+function zIR(){var i=0,l=zR.length;if(l>9)l=9;
+w('<div class="obC"><h5>Related Articles</h5><p>');
+while(i<l){ziRl(zR[i++],zR[i++])}
+w('</p></div>')}
+if(this.zR&&zR.length)zIR();
+else{function zIod(t,u,s,i){w('<a href="'+u+'" target=_new'+i+'>'+zidt(t,s)+'</a>')}function zIobj(a,h,s,c){var j=0,l=a.length,i=1;w('<div class="obC"><h5>'+a[0]+'</h5><p>');while(j++<h){zIod(a[i++],'http://clk.about.com/?zi='+c+'&sdn='+gs+'&zu='+a[i++],s,j);j=(i==l)?h:j}}if(this.zImp&&zImp.length){zIobj(zImp,5,55,'18/yV/Sk')}}</script><div class="obC"><h5>Related Articles</h5><p>
+<a href="http://clk.about.com/?zi=18/yX&amp;sdn=german&amp;zu=http://german.about.com/library/weekly/aa011000a.htm" target="_top">Listening to Germany on CD - German Language</a>
+<a href="http://clk.about.com/?zi=18/yX&amp;sdn=german&amp;zu=http://german.about.com/library/weekly/aa062298.htm" target="_top">Audio Cassettes/CDs - German Language</a>
+<a href="http://clk.about.com/?zi=18/yX&amp;sdn=german&amp;zu=http://german.about.com/cs/audiobooks/index.htm" target="_top">Audiobooks - Hörbücher</a>
+<a href="http://clk.about.com/?zi=18/yX&amp;sdn=german&amp;zu=http://german.about.com/library/blgerlab_zahlen.htm" target="_top">Language Lab - German Numbers - Listening</a>
+<a href="http://clk.about.com/?zi=18/yX&amp;sdn=german&amp;zu=http://german.about.com/library/blgerlab.htm" target="_top">German Language Lab - Audio - Listen to German</a>
+</p></div>
+
+</body></html>
