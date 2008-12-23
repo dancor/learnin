@@ -1,0 +1,64 @@
+on 13/11 6/5:
+"hit on opponent's side"
+1 1: 24/20*
+2 2: 24/20* + ?
+3 1: 24/20*
+4 1: 24/20* + ?
+4 2: 24/20* + ?
+4 3: 24/20* + ?
+4 4: 24/20* ..
+5 4: 24/20* + ?
+6 4: 24/20*/14*
+only 3 or 4 are immediately resolved
+has implication for 9 of the 21 poss
+
+on 13/11 6/5:
+1 1 obv
+2 1 split bc he might make his 5 (good to split after making 5 and good to get
+    better hit chances if not) and 13/11 is good normal move
+    g: 13/11 6/5
+2 2 obv
+3 1 obv
+3 2 as with 2 1
+    g: two builders
+3 3 make your 5 and advanced anchor (g: make 5 and 3)
+4 1 obv hit and only good 1
+4 2 obv hit and 13/11 is always popular
+4 3 hit and back (g: builder)
+4 4 interesting that this is _always_ 13/9
+5 1 normal
+5 2 normal
+5 3 normal but s: split and 13/8 (weird..)
+5 4 obv
+5 5 make 3
+6 1 normal
+6 2 24/22 13/7, 24/18 13/11 dg
+6 3 run, g: split and build
+6 4 obv
+6 5 normal
+6 6 obv
+
+on 8/5 6/5:
+1 1 make 5 and split (g: make 7)
+2 1 split and build
+2 2 make 4 and advance (dg: make 11)
+3 1 normal
+3 2 24/22 13/10 wat!
+3 3 advance and 13/10(2), d: mega-advance, g: two points
+4 1 normal always
+4 2 normal
+4 3 d always
+4 4 obv make 5
+5 1 normal
+5 2 normal always
+5 3 normal
+5 4 g always
+5 5 make 3
+6 1 normal
+6 2 normal always
+6 3 normal
+6 4 normal but new-c is old-ds
+6 5 normal
+6 6 obv
+
+
