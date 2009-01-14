@@ -1,0 +1,25 @@
+my keymap
+
+kinesis
+$& [ { }( =* ) + ]!
+ ' , . py fg c r l/
+ a o e iu dh t n s-
+ ; q j kx bm w v z
+ #             @ \
+
+~% 7 5 31 90 2 4 68
+ " < > PY FG C R L?
+ A O E IU DH T N S_
+ : Q J KX BM W V Z
+ `             ^ |
+
+laptop
+$& [ { }( =* ) + ]!#
+ ' , . py fg c r l/@\
+ a o e iu dh t n s-
+ ; q j kx bm w v z
+
+~% 7 5 31 90 2 4 68`
+ " < > PY FG C R L?^|
+ A O E IU DH T N S_
+ : Q J KX BM W V Z
