@@ -1,0 +1,15 @@
+# question set: chess opening main lines
+
+# either
+nimzo-indian classical 8|1 d4 Nf6 2 c4 e6 3 Nc3 (Bb4) 4 (Qc2) O-O 5 a3 Bxc3 6 Qxc3 b6 7 Bg5 Bb7 8 f3 h6
+
+# black only
+sicilian najdorf 8|1 e4 (c5) 2 Nf3 (d6) 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 (a6) 6 Be2 e5 7 Nb3 Be7 8 O-O O-O
+sicilian closed 8|1 e4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 d3 d6 6 Be3 e6 7 Qd2 Rb8 8 Nge2 Nd4
+
+# white only
+queen's gambit declined tartakower 8|1 d4 d5 2 (c4) (e6) 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 (b6) 8 cxd5 Nxd5
+king's indian orthodox aronin-taimanov 8|1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6 8 d5 Ne7
+gruenfeld defense 8|1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4 c5 8 Ne2 Nc6
+benko gambit 8|1 d4 Nf6 2 c4 c5 3 d5 b5 4 cxb5 a6 5 bxa6 Bxa6 6 Nc3 d6 7 e4 Bxf1 8 Kxf1 g6
+queen's gambit accepted 8|1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O a6 7 a4 Nc6 8 Qe2 cxd4
