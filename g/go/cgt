@@ -1,3 +1,31 @@
 {10 | {7 | 0}}
 
+spight problem
+http://senseis.xmp.net/?Tedomari
 
+the important thing is that white-c has a follow-up and nothing else does
+
+black is up by 3 in the naive count
+A is {0 | -3}
+B is {0 | -4}
+C is {2 | {0 | -3}} means it's worth 1/4?
+
+black:
+(bB wA -> -1)
+bB wC -> -3
+(bA wB -> -2)
+bA wC bB wC' -> -3
+(bA wC bC' wB -> -4)
+(bC wA -> -1)
+bC wB -> -2
+
+black will win by one point iff plays at C, tie otherwise
+
+white:
+wB bA -> -4
+(wB bC -> -5)
+wA bB -> -3
+(wA bC -> -5)
+wC bB -> -3
+
+white will win by one point iff plays at B, tie otherwise
