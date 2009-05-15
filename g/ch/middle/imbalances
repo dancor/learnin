@@ -9,10 +9,13 @@ initiative
 
 
 
+
+
+material
+file/square ("rooks")
 minor
 pawn
+
+dev
 space
-material
-file/square
-development
-initiative
+tempo
