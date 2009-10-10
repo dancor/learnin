@@ -1,3 +1,37 @@
+- my main line
+1 Nf3 c5 2 c4 Nc6 3 Nc3 e5 4 g3 g6 5 Bg2 Bg7 6 O-O Nge7 7 d3 O-O 8 a3 d6
+(english symmetrical)
+- white only
+1 Nf3 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 d4 O-O 6 Be2 e5 7 O-O Nc6 8 d5
+                                                   (KI: mar del plata)
+                                                   Nbd7 7 O-O e5 8 Be3
+                                                   (KI)
+      d5 2 c4 d4 3 g3 Nc6 4 Bg2 e5 5 d3 Nf6 6 O-O a5 7 e3 Be7 8 Be7
+      (reti advance)
+      Nc6 2 d4 d5 3 Bf4 Bg4 4 e3 e6 5 c4 Bb4 6 Nc3 Nf6 7 Rc1 O-O 8 h3
+      (queen's pawn)
+- black only
+1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 a6 5 Bd3 Bc5 6 Nb3 Be7 7 O-O d6 8 c4 Nf6
+(sicilian kan)
+        2 Nc3 Nc6 3 Bb5 Nd4 4 Bc4 e6 5 Nf3 Nf6 6 O-O a6 7 d3 b5 8 Bb3 Nxb3
+        (sicilian closed)
+        2 f4 d5 3 exd5 Nf6 4 Bb5 Bd7 5 Bxd7 Qxd7 6 c4 e6 7 Qe2 Bd6 8 d3 O-O
+        (sicilian grand prix tal gambit)
+1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Ba6 5 b3 Bb4 6 Bd2 Be7 7 Bg2 c6 8 Bc3 d5
+(QI nimzowitsch)
+         2 Nf3 g6 3 c4 Bg7 4 g3 O-O 5 Bg2 d6 6 O-O Nbd7 7 Nc3 e5 8 e4 c6
+         (KI fianchetto classical)
+
+fics
+1 (queen's pawn)
+1 (sicilian grand prix tal gambit)
+
+
+- jwang-black expected main line
+1 Nf3 
+
+
+
 - my openings to 20k on COE (18 of them, plus one transposition)
 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 O-O 5 a3 Bxc3 6 Qxc3 b6 7 Bg5 Bb7 8 f3 h6
 (nimzo-indian classical)
